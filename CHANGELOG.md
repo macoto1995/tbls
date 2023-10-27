@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.70.3](https://github.com/macoto1995/tbls/compare/v1.70.2...v1.70.3) - 2023-10-27
+
 ## [v1.70.2](https://github.com/k1LoW/tbls/compare/v1.70.1...v1.70.2) - 2023-10-17
 ### Other Changes
 - Add arguments as second sort key for functions. by @corydoraspanda in https://github.com/k1LoW/tbls/pull/527
